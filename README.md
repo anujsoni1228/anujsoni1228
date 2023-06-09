@@ -3,21 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anujsoni1228&label=Profile%20views&color=0e75b6&style=flat" alt="anujsoni1228" /> </p>
 
-- 🔭 I’m currently working on **Whatsapp web clone**
+- 🔭 I’m currently working on **DSA and MERN stack development.**
 
 - 🌱 I’m currently learning **Javascript, React.js, Node.js, Express.js, Core Java, MongoDB, Mongoose, etc**
 
-- 👯 I’m looking to collaborate on **MERN Projects and other opprotunities**
-
 - 👨‍💻 All of my projects are available at [https://github.com/anujsoni1228](https://github.com/anujsoni1228)
 
-- 📝 I regularly write articles on [https://leetcode.com/problems/find-peak-element/solutions/3049337/binary-search-c-easy-with-comments-explainantion/](https://leetcode.com/problems/find-peak-element/solutions/3049337/binary-search-c-easy-with-comments-explainantion/)
+- 📝 I regularly write articles on [https://leetcode.com](https://leetcode.com)
 
 - 💬 Ask me about **C,C++, JS, React, DSA, HTML, CSS**
 
-- 📫 How to reach me **anujsonimca@gmail.com**
+- 📫 reach me at **anujsonimca@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/16x6ieiNSVOPdYmgKSp_KLOvDyg6HFvsvbFbXvbwHXAA/edit?usp=sharing](https://docs.google.com/document/d/16x6ieiNSVOPdYmgKSp_KLOvDyg6HFvsvbFbXvbwHXAA/edit?usp=sharing)
+- 📄 Know about my experiences (RESUME) [https://docs.google.com/document/d/16x6ieiNSVOPdYmgKSp_KLOvDyg6HFvsvbFbXvbwHXAA/edit?usp=sharing](https://docs.google.com/document/d/16x6ieiNSVOPdYmgKSp_KLOvDyg6HFvsvbFbXvbwHXAA/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
